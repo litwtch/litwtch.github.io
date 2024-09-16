@@ -1,6 +1,6 @@
 
 ---
-layout: page
+layout: default
 title: Projects
 permalink: https://litwtch.github.io/projects
 ---
