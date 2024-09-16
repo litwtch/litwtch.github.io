@@ -1,6 +1,9 @@
+
+---
 layout: page
 title: Projects
 permalink: https://litwtch.github.io/projects
+---
 
 <html>
 <h1> projects</h1>
